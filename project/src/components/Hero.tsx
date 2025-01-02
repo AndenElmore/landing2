@@ -30,4 +30,8 @@ export default function Hero() {
       </div>
     </div>
   );
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> origin/main

@@ -12,4 +12,8 @@ export const theme = {
       accent: '#FFD700'
     }
   }
+<<<<<<< HEAD
 } as const;
+=======
+} as const;
+>>>>>>> origin/main

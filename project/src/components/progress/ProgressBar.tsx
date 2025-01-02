@@ -28,4 +28,8 @@ export default function ProgressBar() {
       </div>
     </div>
   );
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> origin/main

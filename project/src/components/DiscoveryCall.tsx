@@ -17,4 +17,8 @@ export default function DiscoveryCall() {
       </div>
     </div>
   );
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> origin/main

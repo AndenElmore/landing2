@@ -27,4 +27,8 @@ export default function ProgressBar({ currentStep, totalSteps = 2 }: ProgressBar
       </div>
     </div>
   );
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> origin/main

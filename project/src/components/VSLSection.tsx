@@ -43,4 +43,8 @@ export default function VSLSection({ onComplete }: VSLSectionProps) {
       </div>
     </div>
   );
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> origin/main

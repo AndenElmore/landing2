@@ -17,4 +17,8 @@ export default {
     },
   },
   plugins: [],
+<<<<<<< HEAD
 };
+=======
+};
+>>>>>>> origin/main

@@ -115,4 +115,8 @@ export default function CalendarWidget({ className = '' }: CalendarWidgetProps) 
       </div>
     </div>
   );
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> origin/main

@@ -45,4 +45,8 @@ export default function Testimonials() {
       </div>
     </div>
   );
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> origin/main

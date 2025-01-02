@@ -31,4 +31,8 @@ export const useProgress = create<ProgressState>((set) => ({
     isComplete: true,
     step: 2
   })
+<<<<<<< HEAD
 }));
+=======
+}));
+>>>>>>> origin/main

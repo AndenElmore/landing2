@@ -46,4 +46,8 @@ export default function WhatYouGet() {
       </div>
     </div>
   );
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> origin/main
